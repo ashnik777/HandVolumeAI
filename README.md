@@ -5,7 +5,7 @@
 * DESCRIPTION
 * COMMANDS
  
-# AUTHER 
+# AUTHOR 
 * ASHOT NIKOGHOSYAN
 * phone number:+37477049404
 * gmail:ashot.nikogosyan2000@gmail.com
